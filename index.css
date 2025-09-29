@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small helper to keep gold button consistent */
+.bg-gold { background-color: #D4AF37; color: #000; }
